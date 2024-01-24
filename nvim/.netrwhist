@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/cjdev/.screenlayout'
+let g:netrw_dirhist_2='/usr/share/nvim'
+let g:netrw_dirhist_3='/home/cjdev/.config/nvim'
+let g:netrw_dirhist_4='/home/cjdev/epsmonitor/trunk/src'
+let g:netrw_dirhist_5='/home/cjdev/epsmonitor/trunk'
+let g:netrw_dirhist_6='/home/cjdev/epsmonitor/trunk/util'
+let g:netrw_dirhist_7='/home/cjdev/epsmonitor/trunk/util/epsmd'
+let g:netrw_dirhist_8='/home/cjdev/epsmonitor/trunk/util/epsmd/src'
+let g:netrw_dirhist_9='/etc/apt/sources.list.d'
