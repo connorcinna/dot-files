@@ -1,0 +1,14 @@
+configuration {
+    modi: "window,drun,run,ssh";
+    width: 450;
+    lines: 15;
+    columns: 1;
+    font: "Cozette 10";
+    bw: 1;
+    terminal: "uxrvt";
+    drun-match-fields: "name,generic,exec,categories";
+    sidebar-mode: true;
+    combi-modi: "drun,run,ssh";
+    combi-hide-mode-prefix: true;
+}
+@import "/usr/share/rofi/themes/gruvbox-dark.rasi"
